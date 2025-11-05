@@ -44,7 +44,7 @@ The project uses an interface-driven design:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/interactive-console-platform-java.git
+git clone https://github.com/deepak4194/interactive-console-platform-java.git
 cd interactive-console-platform-java
 ```
 
