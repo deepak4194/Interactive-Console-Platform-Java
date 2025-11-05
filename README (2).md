@@ -23,14 +23,6 @@ The platform includes five interactive activities:
 - **Paradigm**: Object-Oriented Programming (OOP)
 - **Design Pattern**: Interface-based implementation
 
-## Project Structure
-
-```
-interactive-console-platform-java/
-├── Games.java              # Main application file
-├── README.md              # Project documentation
-└── docs/                  # Additional documentation
-```
 
 ## Architecture
 
@@ -144,37 +136,3 @@ The `Games` class implements the `OnlineGaming` interface and provides implement
 - **Game Logic** - Win/loss/draw detection algorithms
 - **Random Generation** - Dynamic content creation
 
-## Course Information
-
-- **Course**: 20AI&ML3304 - Java Programming
-- **Program**: B.Tech - Artificial Intelligence and Machine Learning
-- **Project Type**: Home Assignment
-
-## Contributors
-
-- 228W1A4229
-- 228W1A4244
-- 228W1A4264
-
-## Future Enhancements
-
-- Add difficulty levels for each activity
-- Implement score tracking and leaderboard
-- Add multiplayer network support
-- Include GUI version using JavaFX or Swing
-- Expand word database for Hangman
-- Add AI difficulty settings for Rock Paper Scissors
-
-## License
-
-This project is created for educational purposes as part of academic coursework.
-
-## Acknowledgments
-
-- Java Programming course instructors
-- B.Tech AI&ML Department
-- Team members for collaborative development
-
----
-
-**Note**: This is an academic project developed as part of the Java Programming course curriculum.
